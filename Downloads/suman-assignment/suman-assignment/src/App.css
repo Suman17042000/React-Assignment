@@ -1,0 +1,46 @@
+.flex{
+  display: flex;
+  justify-content: space-evenly;
+}
+p{
+  font-family: monospace;
+  font-size: 3rem;
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
+.container h1{
+  padding-top: 2rem;
+}
+.image-container{
+  padding: 50px;
+  flex-wrap: wrap;
+  margin: 2rem;
+  border: 2px solid black;
+}
+.image-layot{
+  border: 1px solid black;
+  width: 300px;
+  height: 300px;
+  margin: 2rem;
+
+}
+.image-layot img{
+  width: 299px;
+  height: 299px;
+  
+}
+.individual-image{
+  margin: 4rem;
+
+}
+
+.individual-image img{
+  width: 700px;
+  margin-top: 2rem;
+  border: 2px solid black;
+}
+.button-individual{
+  margin: 4rem;
+}
